@@ -11,4 +11,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDiaz18)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiaz18)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiaz18)-->
