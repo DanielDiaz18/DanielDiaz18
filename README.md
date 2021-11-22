@@ -32,7 +32,7 @@ about 3 years of javascript experience
 
 #### formation
 
-* Tecnologo Profesional en Sistemas Informaticos (2015-2019)\nEscuela Politecnica de Guadalajara (Universidad de Guadalajara)
+* Tecnologo Profesional en Sistemas Informaticos (2015-2019) Escuela Politecnica de Guadalajara (Universidad de Guadalajara)
   
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDiaz18)-->
