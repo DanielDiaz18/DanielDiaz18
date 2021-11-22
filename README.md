@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Mobile apps development
 - 🌱 I’m currently learning Golang/Docker
-- 👯 I’m looking to collaborate on Open source/commercial projects
+- 🤝 I’m looking to collaborate on Open source/commercial projects
 - 💬 Ask me about Flutter/Web development
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/daniel-alberto-d%C3%ADaz-gonz%C3%A1lez-111950180/)
 
@@ -27,13 +27,12 @@ about 3 years of flutter experience
 about 3 years of javascript experience
 
 * react, vanilla js, node js
-* backend development (express)
 * redux
+* backend development (express)
 
 #### formation
 
 * Tecnologo Profesional en Sistemas Informaticos (2015-2019) Escuela Politecnica de Guadalajara (Universidad de Guadalajara)
-  
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDiaz18)-->
 
