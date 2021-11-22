@@ -2,14 +2,14 @@
 ---
 
 - 🔭 I’m currently working on Mobile apps development
-- 🌱 I’m currently learning Rust/Haskell/Docker
+- 🌱 I’m currently learning Golang/Docker
 - 👯 I’m looking to collaborate on Open source/commercial projects
 - 💬 Ask me about Flutter/Web development
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/daniel-alberto-d%C3%ADaz-gonz%C3%A1lez-111950180/)
 
 ---
 
-###### flutter
+#### flutter
 
 about 3 years of flutter experience
 
@@ -19,13 +19,22 @@ about 3 years of flutter experience
 * functional programming (dartx)
 * responsive desing
 * Flutter navigation 2.0 (auto-route, beamer,...)
-* native plugin development
+* native plugins development
+* firebase integration
 
-### apps where i colaborate
+#### javascript
 
-[Medical app](https://play.google.com/store/apps/details?id=mx.meddi.app)
-[Education app](https://play.google.com/store/apps/details?id=com.agnus.agnus&showAllReviews=true)
+about 3 years of javascript experience
 
+* react, vanilla js, node js
+* backend development (express)
+* redux
+
+#### formation
+
+* Tecnologo Profesional en Sistemas Informaticos (2015-2019)
+  Escuela Politecnica de Guadalajara (Universidad de Guadalajara)
+  
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDiaz18)-->
 
