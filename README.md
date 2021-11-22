@@ -37,6 +37,8 @@ about 3 years of javascript experience
 
 * Tecnologo Profesional en Sistemas Informaticos (2015-2019) Escuela Politecnica de Guadalajara (Universidad de Guadalajara)
 
+#### 2 apps published on app store and google play
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDiaz18)-->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiaz18)-->
