@@ -9,7 +9,7 @@
 
 ---
 
-#### flutter
+#### Flutter
 
 about 3 years of flutter experience
 
@@ -22,15 +22,18 @@ about 3 years of flutter experience
 * native plugins development
 * firebase integration
 
-#### javascript
+---
+
+#### Javascript
 
 about 3 years of javascript experience
 
-* react, vanilla js, node js
-* redux
+* react, vuejs, vanilla js, node js
 * backend development (express)
 
-#### formation
+---
+
+#### Formation
 
 * Tecnologo Profesional en Sistemas Informaticos (2015-2019) Escuela Politecnica de Guadalajara (Universidad de Guadalajara)
 
