@@ -21,6 +21,7 @@ about 3 years of flutter experience
 * Flutter navigation 2.0 (auto-route, beamer,...)
 * native plugins development
 * firebase integration
+* use of CI/CD tools
 
 ---
 
