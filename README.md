@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I´m Daniel Diaz and I´m 22 years old
+
 I´m looking to colaborate on projects/oportunities and use my skills to grow together
 
 ---
@@ -36,6 +37,7 @@ I´m looking to colaborate on projects/oportunities and use my skills to grow to
 ### FullStack development
 
 3+ years of Javascript experience
+
 1+ years of Typescript experience
 
 #### frontend
@@ -53,4 +55,4 @@ I´m looking to colaborate on projects/oportunities and use my skills to grow to
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDiaz18)-->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiaz18)-->
+<!--[![DanielDiaz18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielDiaz18)](https://github.com/anuraghazra/github-readme-stats)-->
