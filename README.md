@@ -29,6 +29,7 @@ I´m looking to colaborate on projects/oportunities and use my skills to grow to
 * Payment gateways integration
 * Firebase integration
 * use of CI/CD tools for Mobile apps
+* TDD, DDD, MVC architectures knowledge
 
 #### 3+ apps published on app store and google play
 
