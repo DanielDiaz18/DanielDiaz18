@@ -49,6 +49,14 @@ I´m looking to colaborate on projects/oportunities and use my skills to grow to
 
 ---
 
+### Embedded software development (Arduino)
+
+* Full released electronic projects
+
+1+ years of arduino(c++) experience
+
+---
+
 ### Formation
 
 * Tecnologo Profesional en Sistemas Informaticos (2015-2019). Escuela Politecnica de Guadalajara (Universidad de Guadalajara)
